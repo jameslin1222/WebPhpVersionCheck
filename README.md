@@ -11,3 +11,6 @@ URL: The target website URL to check.
 --timeout [1~60]: Set the request timeout in seconds.
 --json: Output results in JSON format.
 --show-headers: Display HTTP response headers.
+
+## My Blogs
+https://web.jobjameslin.cloudns.be/blogs
